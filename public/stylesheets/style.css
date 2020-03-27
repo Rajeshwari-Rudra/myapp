@@ -6,3 +6,8 @@ body {
 a {
   color: rgb(12, 109, 3);
 }
+
+
+#title {
+  color: red;
+}
